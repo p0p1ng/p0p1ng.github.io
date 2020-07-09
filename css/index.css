@@ -2527,6 +2527,17 @@ kbd {
 .footer .exturl__icon {
   color: #fff;
 }
+.comments {
+  margin: 1.5rem 0 0;
+  width: 100%;
+  border-radius: 5px;
+  padding: 1rem 2rem;
+  background-color: var(--color-card);
+  float: right;
+}
+#lv-container {
+  width: 100%;
+}
 .copy-button {
   position: absolute;
   top: 0;
